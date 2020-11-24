@@ -1,0 +1,866 @@
+{
+   "title": "Kwestionariusz temperamentu",
+   "subtitle": "wg Florence Littauer",
+   "defaultQuestion": "Wybierz określenie, które najbardziej odnosi się do Ciebie",
+    "resultsHeader": "Poziom zgodności Twojej osobowości z typami charakterów (%)",
+        "answers": [
+        {
+            "description": "Towarzyski sangwinik to optymista. Potrafi przyciągać do siebie ludzi, jest emocjonalny i wylewny, entuzjastyczny i spontaniczny, ma duże poczucie humoru. Gadatliwy, ciekawy, jest dobrym narratorem i urodzonym aktorem. Żyje raczej dniem dzisiejszym niż tym co było lub będzie. Jest duszą towarzystwa i tak gdzie przebywa wnosi radość. Nie chowa urazy, lubi komplementy, szybko przeprasza. W pracy ochotnik, inicjuje nowe formy aktywności, jest twórczy, tryska energią i entuzjazmem. Potrafi sprawiać bardzo dobre wrażenie, posiada umiejętności pobudzania innych do współpracy. Powinien pracować w środowisku wymagającym zmiennych form aktywności, pozbawionym konieczności wykonywania zadań rutynowych. Dobrze będzie czuł się w pracy wymagającej inicjatywy, twórczego rozwiązywania wielu problemów, wymagającej szybkiego podejmowania decyzji. Powinna to być praca zapewniająca szerokie kontakty z ludźmi. Jest prawdopodobne, że towarzyski sangwinik nie będzie zadowolony z pracy wymagającej posługiwania się liczbami, wykresami, wymagającej dokładności, staranności i skrupulatności. Przykładowe zawody: instruktor kulturalno oświatowy, pilot wycieczek turystycznych, akwizytor, handlowiec, organizator przedsięwzięć reklamowych, stewardessa, aktor estradowy, śpiewak itd. Zawody niewskazane: księgowy, ekonomista, laborant chemiczny, dyrektor przedsiębiorstwa, prawnik itp.",
+            "key": "A",
+            "name": "Towarzyski sangwinik"
+        },
+        {
+            "description": "Energiczny choleryk to optymista, człowiek czynu, nastawiony na działania i kierowanie, jest urodzonym przywódcą, dynamiczny i aktywny ujawnia silną wolę i zdecydowanie. Wśród ludzi wzbudza zaufanie i respekt. Często pracuje dla potrzeb grupy, przewodzi i organizuje. Preferuje pracę, którą może sam zorganizować, szybkość działania, realizację jasno sprecyzowanych celów, jest szybki w działaniu. Potrafi rozdzielać pracę, koncentrować uwagę zespołu na wydajności. Lubi przewodzić i organizować prace innym. Powinien pracować w środowisku stwarzającym duże możliwości samodzielnego organizowania pracy sobie i innym. Środowiskiem niewskazanym będzie każda praca rutynowa, wymagająca jedynie wykonywania poleceń, nie otwierająca możliwości realizowania własnych pomysłów. Przykładowe zawody: przedsiębiorca, dyrektor przedsiębiorstwa, inżynier w przemyśle i budownictwie, manager, handlowiec, prawnik, dziennikarz, ordynator oddziału szpitalnego, reżyser, policjant. Zawody niewskazane: księgowy, pracownik biurowy, analityk chemiczny, farmaceuta.",
+            "key": "B",
+            "name": "Energiczny choleryk"
+        },
+        {
+            "description": "Perfekcyjny melancholik to myśliciel, idealista i pesymista. Nastawiony na zadania i analizowanie. Przejawia zdolności artystyczne, jest wyczulony na piękno, muzykalny. Cechuje go duża wrażliwość na potrzeby innych, skłonność do poświęcania się, sumienność. Ostrożnie dobiera przyjaciół, ale jest wobec nich wierny i ofiarny. Raczej woli pozostawać w cieniu, będzie więc unikał publicznych wystąpień i zwracania na siebie uwagi. Jeśli jest obdarzony inteligencją to potrafi łatwo rozwiązywać problemy, znajdować twórcze rozwiązania i tego będzie oczekiwał od swojej pracy. Lubi wykresy, schematy, wykazy i liczby. Z łatwością podporządkowuje się regulaminom, dużą wagę przywiązuje do szczegółów, jest wytrwały i dokładny, uporządkowany zorganizowany, zawsze musi dokończyć to co zaczaj. Powinien pracować w środowisku nie wymagającym zmiennych form aktywności, szybkich działań, powinna to być praca nie wymagająca częstych kontaktów z ludźmi, publicznych wystąpień, zwracania na siebie uwagi. Przykładowe zawody: ekonomista, księgowy, notariusz, konserwator zabytków, bibliotekarz, archeolog, meteorolog, farmaceuta. Zawody niewskazane: aktor, akwizytor, manager, handlowiec, prawnik, makler giełdowy, sekretarka.",
+            "key": "C",
+            "name": "Perfekcyjny melancholik"
+        },
+        {
+            "description": "Spokojny flegmatyk to pesymista i obserwator. Nastawiony na relacje z ludźmi. Jest spokojny, chłodny, opanowany, zrównoważony i cierpliwy, cichy a przy tym dowcipny. Powściągliwy w wyrażaniu emocji, które skrywa głęboko. Życzliwy, uprzejmy, potrafi poświęcić dużo czasu sprawie czy człowiekowi. W kontaktach z ludźmi uprzejmy, pogodny, lubi obserwować ludzi. Potrafi współczuć i otaczać troską. Potrafi pośredniczyć w rozwiązywaniu problemów, potrafi znajdować proste wyjścia. Preferuje pracę nie wymagającą pośpiechu i tempa, nastawioną na kontakty z ludźmi, pomaganie i rozwiązywanie problemów, nie wymagającą podejmowania szybkich decyzji, przemieszczania się. Jest solidny uprzejmy i pogodny, potrafi słuchać. Powinien podejmować zadania wymagające dokładności, skrupulatności i drobiazgowych analiz, rozwiązywania psychologicznych i naukowych problemów. Dobrze, gdy oczekuje się od niego pracy nastawionej na kontakt z drugim człowiekiem. Przykładowe zawody: socjolog, psycholog kliniczny, pracownik naukowy, pisarz, kustosz w muzeum, bibliotekarz, krytyk literacki Zawody niewskazane: akwizytor, manager, pilot wycieczek turystycznych, sprzedawca, handlowiec, policjant, dyrektor przedsiębiorstwa, kurator sądowy, wychowawca w zakładzie karnym, itp.",
+            "key": "D",
+            "name": "Spokojny flegmatyk"
+        }
+    ],
+    "questions": [
+        [
+            {
+                "description": "pełen życia, ruchliwy, gestykuluje przy użyciu dłoni i ramion, posługuje się i mimiką twarzy.",
+                "key": "A",
+                "name": "żywy"
+            },
+            {
+                "description": "pociąga go to, co nowe, śmiało podejmuje nowe inicjatywy i jest zdecydowany realizować je.",
+                "key": "B",
+                "name": "przedsiębiorczy"
+            },
+            {
+                "description": "lubi analizować zadania pod kątem ich logiki i prawidłowości.",
+                "key": "C",
+                "name": "analityczny"
+            },
+            {
+                "description": "łatwo przystosowuje się i dobrze się czuje w każdej sytuacji.",
+                "key": "D",
+                "name": "elastyczny"
+            }
+        ],
+        [
+            {
+                "description": "pełen radości i pogodnego humoru.",
+                "key": "A",
+                "name": "wesoły"
+            },
+            {
+                "description": "przekonuje odwołując się raczej do logiki i faktów niż do osobistego uroku i siły.",
+                "key": "B",
+                "name": "przekonywujący"
+            },
+            {
+                "description": "doprowadza przedsięwzięcie do samego końca, zanim rozpocznie następne.",
+                "key": "C",
+                "name": "wytrwały"
+            },
+            {
+                "description": "wydaje się nieporuszony i opanowany, unika wszelkiej formy konfliktu.",
+                "key": "D",
+                "name": "spokojny"
+            }
+        ],
+        [
+            {
+                "description": "ktoś, dla kogo obcowanie z innymi jest raczej okazją do zabawy i przyjemności niż załatwiania interesów.",
+                "key": "A",
+                "name": "lgnie do ludzi"
+            },
+            {
+                "description": "ktoś, kto jest zdecydowany iść własną drogą.",
+                "key": "B",
+                "name": "o silnej woli"
+            },
+            {
+                "description": "chętnie rezygnuje z osobistych korzyści w imię czegoś lub dla dobra innych.",
+                "key": "C",
+                "name": "skłonny do poświęceń"
+            },
+            {
+                "description": "łatwo akceptuje punkt widzenia innych lub odczuwa niewielką potrzebę przeforsowania własnej opinii.",
+                "key": "D",
+                "name": "ugodowy"
+            }
+        ],
+        [
+            {
+                "description": "Może cię podbić, pozyskać do czegoś po prostu dzięki czarowi swojej osobowości.",
+                "key": "A",
+                "name": "urzekający"
+            },
+            {
+                "description": "Każdą sytuację, zdarzenie lub grę przekształca we współzawodnictwo i zawsze chce wygrać!",
+                "key": "B",
+                "name": "rywalizujący"
+            },
+            {
+                "description": "Bierze pod uwagę potrzeby i uczucia innych.",
+                "key": "C",
+                "name": "delikatny"
+            },
+            {
+                "description": "Doświadcza rozmaitych wzruszeń, ale rzadko je okazuje.",
+                "key": "D",
+                "name": "opanowany"
+            }
+        ],
+        [
+            {
+                "description": "Dodaje siły i otuchy, sprawia, że inni czują się lepiej.",
+                "key": "A",
+                "name": "pokrzepiający"
+            },
+            {
+                "description": "Zdolny do szybkiego i skutecznego działania we wszystkich sytuacjach życiowych.",
+                "key": "B",
+                "name": "zaradny"
+            },
+            {
+                "description": "Traktuje innych poważnie, okazuje im cześć i poszanowanie.",
+                "key": "C",
+                "name": "pełen szacunku"
+            },
+            {
+                "description": "Oszczędny w wyrażaniu emocji i entuzjazmu.",
+                "key": "D",
+                "name": "powściągliwy"
+            }
+        ],
+        [
+            {
+                "description": "Dynamiczny, skłonny do ekscytacji.",
+                "key": "A",
+                "name": "pełen zapału"
+            },
+            {
+                "description": "Osoba niezależna, całkowicie polegająca na swoich zdolnościach, ocenach i zasobach.",
+                "key": "B",
+                "name": "samodzielny"
+            },
+            {
+                "description": "Przejawia troskę o innych, wrażliwy na to, co dzieje się wokół niego.",
+                "key": "C",
+                "name": "wrażliwy"
+            },
+            {
+                "description": "Osoba, która z łatwością akceptuje każdą sytuację i wydarzenie.",
+                "key": "D",
+                "name": "niewymagający"
+            }
+        ],
+        [
+            {
+                "description": "Przekonuje i pobudza innych do wytrwałości, przyłączenia się lub zaangażowania, odwołując się do czaru swojej osobowości",
+                "key": "A",
+                "name": "promotor"
+            },
+            {
+                "description": "Wie, że wszystko będzie dobrze, jeśli on jest za to odpowiedzialny.",
+                "key": "B",
+                "name": "nastawiony na sukces"
+            },
+            {
+                "description": "Woli opracowywać naprzód szczegóły zadania niezbędne dla realizacji planu lub osiągnięcia celu; jest bardziej zainteresowany planowaniem etapów działania i efektem końcowym aniżeli wykonywaniem zadania.",
+                "key": "C",
+                "name": "planujący"
+            },
+            {
+                "description": "Nie denerwuje go opóźnianie się czegoś, pozostaje łagodny i tolerancyjny.",
+                "key": "D",
+                "name": "cierpliwy"
+            }
+        ],
+        [
+            {
+                "description": "Chciałby, żeby życie toczyło się żywiołowo, lubi samorzutne działanie, nie ograniczone żadnym planem.",
+                "key": "A",
+                "name": "spontaniczny"
+            },
+            {
+                "description": "Niezawodny, rzadko waha się lub zmienia zdanie. ",
+                "key": "B",
+                "name": "pewny"
+            },
+            {
+                "description": "Działa i żyje zgodnie z planem dnia i nie lubi, gdy zostaje on pokrzyżowany.",
+                "key": "C",
+                "name": "zorganizowany"
+            },
+            {
+                "description": "Cichy, niełatwo mu zainicjować rozmowę.",
+                "key": "D",
+                "name": "nieśmiały"
+            }
+        ],
+        [
+            {
+                "description": "Ma pogodne usposobienie; przekonuje siebie i innych, że wszystko potoczy się dobrze.",
+                "key": "A",
+                "name": "optymista"
+            },
+            {
+                "description": "Mówi otwarcie i bez ogródek.",
+                "key": "B",
+                "name": "szczery"
+            },
+            {
+                "description": "Osoba, która porządkuje rzeczy w metodyczny, systematyczny sposób.",
+                "key": "C",
+                "name": "uporządkowany"
+            },
+            {
+                "description": "Usłużny; skory do robienia czegoś w sposób narzucony przez kogoś.",
+                "key": "D",
+                "name": "uprzejmy"
+            }
+        ],
+        [
+            {
+                "description": "Tryska humorem i potrafi zwykłą historie przekształcić w zabawne wydarzenie.",
+                "key": "A",
+                "name": "dowcipny"
+            },
+            {
+                "description": "Władcza osobowość, której inni nie śmieliby się przeciwstawić.",
+                "key": "B",
+                "name": "autorytatywny"
+            },
+            {
+                "description": "Można na nim zawsze polegać, niezmienny, lojalny i oddany, czasami ponad granice rozsądku.",
+                "key": "C",
+                "name": "wierny"
+            },
+            {
+                "description": "Raczej popiera czyjąś inicjatywę niż sam inicjuje; rzadko rozpoczyna rozmowę.",
+                "key": "D",
+                "name": "życzliwy"
+            }
+        ],
+        [
+            {
+                "description": "Wesoły, lubi zabawę, towarzystwo.",
+                "key": "A",
+                "name": "czarujący"
+            },
+            {
+                "description": "Chętnie podejmuje ryzyko, śmiały, nieustraszony.",
+                "key": "B",
+                "name": "odważny"
+            },
+            {
+                "description": "Każdą rzecz robi w określonym porządku, pamiętając o wszystkim, co trzeba.",
+                "key": "C",
+                "name": "drobiazgowy"
+            },
+            {
+                "description": "W kontaktach z ludźmi pełen taktu, wrażliwy i cierpliwy.",
+                "key": "D",
+                "name": "dyplomatyczny"
+            }
+        ],
+        [
+            {
+                "description": "Zawsze w dobrym nastroju, wzbudzający w innych radość.",
+                "key": "A",
+                "name": "pogodny"
+            },
+            {
+                "description": "Przekonany o swoich zdolnościach i osiągnięciach.",
+                "key": "B",
+                "name": "pewny siebie"
+            },
+            {
+                "description": "Ktoś, kto interesuje się zarówno twórczością intelektualną, jak i artystyczna, taką jak teatr, muzyka symfoniczna, balet.",
+                "key": "C",
+                "name": "kulturalny"
+            },
+            {
+                "description": "Jego emocje znajdują się na niezmiennym poziomie, można łatwo przewidzieć jego reakcje.",
+                "key": "D",
+                "name": "stały"
+            }
+        ],
+        [
+            {
+                "description": "Zachęca innych do pracy, współdziałania, zaangażowania i czyni z tego rodzaj zabawy.",
+                "key": "A",
+                "name": "inspirator"
+            },
+            {
+                "description": "Samowystarczalny, samodzielny, pewny siebie i zdaje się nie potrzebować pomocy.",
+                "key": "B",
+                "name": "niezależny"
+            },
+            {
+                "description": "Każdą rzecz skłonny jest postrzegać w jej doskonałej formie i sam odczuwa potrzebę dążenia do doskonałości.",
+                "key": "C",
+                "name": "idealista"
+            },
+            {
+                "description": "Osoba, która nigdy nie mówi i nie robi nic, co by było nieprzyjemne lub nie na miejscu.",
+                "key": "D",
+                "name": "nieszkodliwy"
+            }
+        ],
+        [
+            {
+                "description": "Otwarcie wyraża uczucia, zwłaszcza miłości, i chętnie dotyka ludzi rozmawiających z nim.",
+                "key": "A",
+                "name": "wylewny"
+            },
+            {
+                "description": "Osoba odznaczająca się zdolnością do wydawania szybkich, zwięzłych sadów.",
+                "key": "B",
+                "name": "stanowczy"
+            },
+            {
+                "description": "Intensywny w doznaniach, często kieruje uwagę na własne wnętrze; nie angażuje się w płytkie dyskusje.",
+                "key": "C",
+                "name": "głęboki"
+            },
+            {
+                "description": "Przejawia humor zaprawiony ironią, zwykle w formie krótkich, sarkastycznych uwag.",
+                "key": "D",
+                "name": "cięty"
+            }
+        ],
+        [
+            {
+                "description": "Uwielbia przyjęcia i nie może doczekać się spotkania ze znajomymi; nie nawiązuje kontaktów z obcymi.",
+                "key": "A",
+                "name": "towarzyski"
+            },
+            {
+                "description": "Kieruje nim potrzeba produktywności, jest przywódcą, za którym inni podążają; trudno mu usiedzieć bezczynnie.",
+                "key": "B",
+                "name": "działacz"
+            },
+            {
+                "description": "Zajmuje się muzyką albo darzy ją ogromnym uznaniem, ceni muzykę jako dziedzinę sztuki raczej niż jako rozrywkę.",
+                "key": "C",
+                "name": "meloman"
+            },
+            {
+                "description": "Stale podejmuje się roli mediatora, niweluje różnice, by nie dopuścić do konfliktu.",
+                "key": "D",
+                "name": "rozjemca"
+            }
+        ],
+        [
+            {
+                "description": "Nieustannie mówi, najczęściej opowiada śmieszne historie i zabawia wszystkich wokół, czując potrzebę wypełnienia ciszy, tak by inni mogli czuć się dobrze.",
+                "key": "A",
+                "name": "rozmowny"
+            },
+            {
+                "description": "Trzyma się twardo, uparcie i nie popuści, dopóki nie osiągnie celu.",
+                "key": "B",
+                "name": "nieustępliwy"
+            },
+            {
+                "description": "Osoba, która pamięta o szczególnych okazjach, jest skora do okazywania gestów uprzejmości. ",
+                "key": "C",
+                "name": "grzeczny"
+            },
+            {
+                "description": "Bez problemu akceptuje poglądy i sposoby postępowania innych, nie odczuwa potrzeby sprzeciwiania się im lub korygowania ich.",
+                "key": "D",
+                "name": "tolerancyjny"
+            }
+        ],
+        [
+            {
+                "description": "Pełen życia, animuszu, wigoru.",
+                "key": "A",
+                "name": "energiczny"
+            },
+            {
+                "description": "Urodzony lider, żądny odpowiedzialności, któremu często trudno uwierzyć, że ktoś inny może równie dobrze wykonać zadanie.",
+                "key": "B",
+                "name": "przywódca"
+            },
+            {
+                "description": "Wierny drugiemu człowiekowi, ideałowi lub pracy, czasami ponad granice rozsądku.",
+                "key": "C",
+                "name": "lojalny"
+            },
+            {
+                "description": "Zawsze chętnie wysłucha tego, co masz do powiedzenia.",
+                "key": "D",
+                "name": "słuchacz"
+            }
+        ],
+        [
+            {
+                "description": "Serdeczny, powszechnie lubiany i podziwiany.",
+                "key": "A",
+                "name": "ujmujący"
+            },
+            {
+                "description": "Sprawuje kierownictwo i oczekuje, że ludzie będą mu posłuszni.",
+                "key": "B",
+                "name": "szef"
+            },
+            {
+                "description": "Organizuje życie i zadania, rozwiązuje problemy sporządzając wykazy, formularze i wykresy.",
+                "key": "C",
+                "name": "organizator"
+            },
+            {
+                "description": "Zadowala się tym, co ma, rzadko kiedy zazdrości.",
+                "key": "D",
+                "name": "zadowolony"
+            }
+        ],
+        [
+            {
+                "description": "Jest duszą towarzystwa, porządny gość na przyjęciach.",
+                "key": "A",
+                "name": "popularny"
+            },
+            {
+                "description": "Musi nieustannie pracować lub coś zdobywać, często jest mu bardzo trudno zmusić się do odpoczynku.",
+                "key": "B",
+                "name": "pracowity"
+            },
+            {
+                "description": "Stawia sobie, a często także innym, wysokie wymaganie, pragnie, by wszystko było raz na zawsze należycie uporządkowane.",
+                "key": "C",
+                "name": "perfekcjonista"
+            },
+            {
+                "description": "Niewymagający, łatwy w kontaktach i w życiu, miły w rozmowie.",
+                "key": "D",
+                "name": "sympatyczny"
+            }
+        ],
+        [
+            {
+                "description": "Żywa, spontaniczna osobowość, tryskająca energią.",
+                "key": "A",
+                "name": "żywotny"
+            },
+            {
+                "description": "Nie ma obaw, prze do przodu, odważny, nie boi się podejmować ryzyka.",
+                "key": "B",
+                "name": "śmiały"
+            },
+            {
+                "description": "Zawsze pragnie zachować się zgodnie z tym, co według niego jest właściwe.",
+                "key": "C",
+                "name": "taktowny"
+            },
+            {
+                "description": "Stabilny, o równym usposobieniu, nie podlegający wahaniom w dół lub w górę.",
+                "key": "D",
+                "name": "zrównoważony"
+            }
+        ],
+        [
+            {
+                "description": "Pretensjonalny, lubi błyszczeć, demonstruje swoja siłę.",
+                "key": "A",
+                "name": "buńczuczny"
+            },
+            {
+                "description": "Rozkazujący, dominujący, czasem arogancki w relacjach z innymi.",
+                "key": "B",
+                "name": "apodyktyczny"
+            },
+            {
+                "description": "Unika zwracania uwagi na siebie, czuje się wówczas zażenowany.",
+                "key": "C",
+                "name": "wstydliwy"
+            },
+            {
+                "description": "Osoba, której twarz nie okazuje emocji.",
+                "key": "D",
+                "name": "chłodny"
+            }
+        ],
+        [
+            {
+                "description": "Osoba, u której prawie w każdej dziedzinie życia panuje nieład.",
+                "key": "A",
+                "name": "niezdyscyplinowany"
+            },
+            {
+                "description": "Nie potrafi się niczym ekscytować, często czując, że to niczego nie zmieni.",
+                "key": "B",
+                "name": "beznamiętny"
+            },
+            {
+                "description": "Ktoś, komu trudno jest przebaczyć lub zapomnieć o zranieniach bądź niesprawiedliwości, jakiej doznał, skłonny do pielęgnowania urazy.",
+                "key": "C",
+                "name": "pamiętliwy"
+            },
+            {
+                "description": "Z trudem przychodzi mu ustosunkować się do problemów lub zranień innych.",
+                "key": "D",
+                "name": "apatyczny"
+            }
+        ],
+        [
+            {
+                "description": "Ponownie opowiada te same historie i zdarzenia, żeby cię zabawić, nie uświadamiając sobie, że wcześniej już robił to kilka razy; wciąż musi o czymś mówić.",
+                "key": "A",
+                "name": "powtarzający się"
+            },
+            {
+                "description": "Zmaga się, walczy lub waha się przed przyjęciem jakiejkolwiek innej racji poza swoja własną.",
+                "key": "B",
+                "name": "oporny"
+            },
+            {
+                "description": "Często nosi w sobie negatywne uczucia jako rezultat prawdziwej lub wyimaginowanej obrazy.",
+                "key": "C",
+                "name": "obraźliwy"
+            },
+            {
+                "description": "Niechętny lub przeciwny angażowaniu się, zwłaszcza w coś skomplikowanego.",
+                "key": "D",
+                "name": "małomówny"
+            }
+        ],
+        [
+            {
+                "description": "Ma słabą pamięć, co zwykle jest związane z brakiem dyscypliny i niechęcią do obciążania pamięci sprawami, które nie są zabawne.",
+                "key": "A",
+                "name": "zapominalski"
+            },
+            {
+                "description": "Wprost, otwarcie i bez skrupułów powie dokładnie, co myśli.",
+                "key": "B",
+                "name": "zuchwały"
+            },
+            {
+                "description": "Namolny odnośnie do spraw pomniejszych i detali, domaga się zwracania uwagi na codzienne drobiazgi.",
+                "key": "C",
+                "name": "kapryśny"
+            },
+            {
+                "description": "Często doświadcza uczucia głębokiej troski, niepokoju i obawy.",
+                "key": "D",
+                "name": "lękliwy"
+            }
+        ],
+        [
+            {
+                "description": "Więcej mówi, niż słucha; zaczyna mówić nie uświadamiając sobie nawet, że już mówi ktoś inny.",
+                "key": "A",
+                "name": "wtrącający się"
+            },
+            {
+                "description": "Osoba, której trudno jest powstrzymać gniew bądź irytację lub czekać na innych.",
+                "key": "B",
+                "name": "niecierpliwy"
+            },
+            {
+                "description": "Ktoś lękliwy lub pozbawiony pewności siebie.",
+                "key": "C",
+                "name": "niepewny"
+            },
+            {
+                "description": "Człowiek, któremu trudno jest podjąć jakąkolwiek decyzję. (Nie chodzi o kogoś, kto zastanawia się długo nad każdą decyzją, chcąc by była ona doskonała.",
+                "key": "D",
+                "name": "niezdecydowany"
+            }
+        ],
+        [
+            {
+                "description": "W pewnej chwili może być w stanie uniesienia, a za moment w dołku; wyraża gotowość pomocy komuś, a następnie znika; obiecuje przyjść, po czym nie pokazuje się.",
+                "key": "A",
+                "name": "niestały"
+            },
+            {
+                "description": "Trudno mu przychodzi otwarcie okazać czułość, zarówno fizycznie jak i w słowach.",
+                "key": "B",
+                "name": "skryty"
+            },
+            {
+                "description": "Osoba, której napięcie i wygórowane wymagania odpychają innych.",
+                "key": "C",
+                "name": "niepopularny"
+            },
+            {
+                "description": "Niechętnie słucha innych, nie jest zainteresowany uczestnictwem w klubach, grupach, w jakichś formach aktywności; nie obchodzi go życie innych.",
+                "key": "D",
+                "name": "odludek"
+            }
+        ],
+        [
+            {
+                "description": "Nie ma stałego sposobu wykonywania rozmaitych rzeczy.",
+                "key": "A",
+                "name": "chaotyczny"
+            },
+            {
+                "description": "Upiera się przy swoim zdaniu.",
+                "key": "B",
+                "name": "twardogłowy"
+            },
+            {
+                "description": "Osoba o tak wysokich wymaganiach, że trudno je zaspokoić.",
+                "key": "C",
+                "name": "wybredny"
+            },
+            {
+                "description": "Nieskory do działania i ciężki do zaangażowania się w coś.",
+                "key": "D",
+                "name": "ociągający się"
+            }
+        ],
+        [
+            {
+                "description": "Pozwala innym (łącznie z dziećmi) robić to, na co mają ochotę, żeby tylko być lubianym.",
+                "key": "A",
+                "name": "na wszystko pozwala"
+            },
+            {
+                "description": "Ktoś, kto ma wysokie mniemanie o sobie, uważa, że zawsze ma racje i że jest najlepszy w pracy.",
+                "key": "B",
+                "name": "megaloman"
+            },
+            {
+                "description": "Choć ma nadzieję na lepsze życie, zwykle dostrzega najpierw ciemną stroną sytuacji.",
+                "key": "C",
+                "name": "pesymista"
+            },
+            {
+                "description": "Szara osobowość, bez wzlotów i upadków, rzadko",
+                "key": "D",
+                "name": "bezbarwny"
+            }
+        ],
+        [
+            {
+                "description": "Ktoś, kto ma dziecięce, wybuchowe usposobienie, cechujące się napadami złego humoru, które kończą się szybko i są niemal natychmiast zapomniane.",
+                "key": "A",
+                "name": "złośnik"
+            },
+            {
+                "description": "Zwykle wznieca spory, ponieważ uważa, że ma rację bez względu na okoliczności.",
+                "key": "B",
+                "name": "dyskutant"
+            },
+            {
+                "description": "Łatwo czuje się odsunięty na bok, często z braku poczucia bezpieczeństwa lub obawy, że inni tak naprawdę nie są zadowoleni z jego towarzystwa.",
+                "key": "C",
+                "name": "wyobcowany"
+            },
+            {
+                "description": "Nie stawia sobie żadnych celów, może ich nawet nie pragnie.",
+                "key": "D",
+                "name": "niemający celu"
+            }
+        ],
+        [
+            {
+                "description": "Proste, dziecięce widzenie świata, brak doświadczenia lub zrozumienia, na czym naprawdę polega życie.",
+                "key": "A",
+                "name": "naiwny"
+            },
+            {
+                "description": "Pewny siebie, gwałtowny i śmiały, często w negatywnym sensie.",
+                "key": "B",
+                "name": "denerwujący"
+            },
+            {
+                "description": "Ktoś często dostrzegający tylko cienie lub złe strony każdej sytuacji.",
+                "key": "C",
+                "name": "nastawiony negatywnie"
+            },
+            {
+                "description": "Niefrasobliwy, beztroski, obojętny.",
+                "key": "D",
+                "name": "nonszalancki"
+            }
+        ],
+        [
+            {
+                "description": "Zapobiega o zaufania i aprobatę innych. Jako gospodarz przyjęcia osoba taka łaknie aplauzu, akceptacji publiczności.",
+                "key": "A",
+                "name": "lizus"
+            },
+            {
+                "description": "Stawia przed sobą coraz to nowe cele, musi być ciągle produktywny i czuje się winny odpoczywając. Kieruje nim nie pragnienie doskonałości czy spełnienia się, ale i potrzeba dokonania rozpoczętego zadania i zyskania nagrody.",
+                "key": "B",
+                "name": "pracoholik"
+            },
+            {
+                "description": "Człowiek, który zwraca się ku sobie i odczuwa wielką potrzebę samotność lub czasowego wycofania się.",
+                "key": "C",
+                "name": "izolujący się"
+            },
+            {
+                "description": "Wciąż czuje się niepewny lub zakłopotany, wiecznie się czymś zamartwia.",
+                "key": "D",
+                "name": "zatroskany"
+            }
+        ],
+        [
+            {
+                "description": "Zabawny, nałogowy gaduła, któremu z trudem przychodzi słuchanie.",
+                "key": "A",
+                "name": "gadatliwy"
+            },
+            {
+                "description": "Czasami zachowuje się w sposób niegrzeczny, a nawet obraźliwy.",
+                "key": "B",
+                "name": "nietaktowny"
+            },
+            {
+                "description": "Nadmiernie analizujący swoje wnętrze, łatwo może poczuć się dotknięty, gdy jest niezrozumiany.",
+                "key": "C",
+                "name": "przewrażliwiony"
+            },
+            {
+                "description": "Unika trudnych sytuacji",
+                "key": "D",
+                "name": "bojaźliwy"
+            }
+        ],
+        [
+            {
+                "description": "Brak mu zdolności uporządkowania życia.",
+                "key": "A",
+                "name": "niezorganizowany"
+            },
+            {
+                "description": "Odczuwa przymus panowania nad sytuacją i/lub ludźmi, zwykle wskazując innym, co mają robić.",
+                "key": "B",
+                "name": "dominujący"
+            },
+            {
+                "description": "Osoba, która przez większość czasu jest w stanie depresji.",
+                "key": "C",
+                "name": "przygnębiony"
+            },
+            {
+                "description": "Charakteryzuje go niepewność i brak przekonania, że cokolwiek mu się uda.",
+                "key": "D",
+                "name": "sceptyk"
+            }
+        ],
+        [
+            {
+                "description": "Niekonsekwentny, przekonany, w swych działaniach i emocjach sprzeczny z logiką.",
+                "key": "A",
+                "name": "niestały"
+            },
+            {
+                "description": "Wydaje się niezdolny do zniesienia lub zaakceptowania postaw innych ludzi, ich poglądów bądź sposobów działania.",
+                "key": "B",
+                "name": "nietolerancyjny"
+            },
+            {
+                "description": "Osoba, której myśli i zainteresowania są skierowane do wewnątrz, żyjąca w swoim wewnętrznym świecie.",
+                "key": "C",
+                "name": "zamknięty w sobie"
+            },
+            {
+                "description": "Osoba, dla której zazwyczaj nie ma znaczenia, jak potoczą się sprawy.",
+                "key": "D",
+                "name": "obojętny"
+            }
+        ],
+        [
+            {
+                "description": "Żyje w ciągłym nieładzie, nie może znaleźć swoich rzeczy.",
+                "key": "A",
+                "name": "bałaganiarz"
+            },
+            {
+                "description": "Działa lub postępuje w sposób w sposób podstępny i przebiegły, obracając wszystko na swoją korzyść; zawsze jakoś wyjdzie na swoje.",
+                "key": "B",
+                "name": "manipulant"
+            },
+            {
+                "description": "Nie przeżywa wielkich uniesień, ale łatwo wpada w nastrojowy dołek, często, gdy czuje się nie doceniany.",
+                "key": "C",
+                "name": "nastrojowy"
+            },
+            {
+                "description": "Mówi cicho i niezrozumiale, nie zależy mu na tym, żeby wypowiadać się wyraźnie.",
+                "key": "D",
+                "name": "mamrot"
+            }
+        ],
+        [
+            {
+                "description": "Musi znajdować się w centrum zainteresowania, chce, żeby na niego patrzono.",
+                "key": "A",
+                "name": "próżny"
+            },
+            {
+                "description": "Zdecydowany przeforsować swoją wolę, niełatwo go przekonać, zawzięty.",
+                "key": "B",
+                "name": "uparty"
+            },
+            {
+                "description": "Nie dowierzający, podający w wątpliwość intencje kryjące się za słowami.",
+                "key": "C",
+                "name": "nieufny"
+            },
+            {
+                "description": "Rzadko działa lub myśli szybko, to dla niego zbyt duży wysiłek.",
+                "key": "D",
+                "name": "powolny"
+            }
+        ],
+        [
+            {
+                "description": "Osoba, której śmiech lub głos wybija się wśród innych w pomieszczeniu.",
+                "key": "A",
+                "name": "donośny"
+            },
+            {
+                "description": "Nie zawaha się dać ci do zrozumienia, że to on ma rację lub decyduje.",
+                "key": "B",
+                "name": "pyszałek"
+            },
+            {
+                "description": "Potrzebuje dużo czasu dla siebie i ma skłonność do unikania ludzi.",
+                "key": "C",
+                "name": "samotnik"
+            },
+            {
+                "description": "Wszelką pracę i aktywność ocenia pod kątem ilości energii potrzebnej do ich wykonania.",
+                "key": "D",
+                "name": "leniwy"
+            }
+        ],
+        [
+            {
+                "description": "Nie potrafi skoncentrować się i skupić uwagi, niestały.",
+                "key": "A",
+                "name": "roztargniony"
+            },
+            {
+                "description": "Niecierpliwy, łatwo wpada w pełen pretensji gniew. Złości się, gdy inni działają dość szybko albo nie zrobili tego, co mieli zrobić.",
+                "key": "B",
+                "name": "zapalczywy"
+            },
+            {
+                "description": "Ma skłonność nie wierzyć i nie ufać zarówno ludziom, jak ideom.",
+                "key": "C",
+                "name": "podejrzliwy"
+            },
+            {
+                "description": "Trudno mu coś rozpoczęć, potrzebuje popchnięcia, żeby zostać pobudzonym do działania.",
+                "key": "D",
+                "name": "niemrawy"
+            }
+        ]
+    ]
+}
