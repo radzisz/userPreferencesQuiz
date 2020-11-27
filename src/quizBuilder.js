@@ -22,13 +22,18 @@ class QuizBackend {
         // store the list of possible answers
         // shuffle answers
         const answers = currentQuestion.sort(() => Math.random() - 0.5).map(
-          currentAnswers => 
-            `<div class="form-check">
-              <input class="form-check-input" type="radio" name="question${questionNumber}" id="question${questionNumber}${currentAnswers.key}" value="${currentAnswers.key}" >
-              <label class="form-check-label" for="question${questionNumber}${currentAnswers.key}">
-                <B>${currentAnswers.name}</b> -  ${currentAnswers.description}
-              </label>
-            </div>`
+          currentAnswers =>  {
+             const text = `<B>${currentAnswers.name}</b> - ${currentAnswers.description}`;
+             console.log(text);
+            return `
+               <div>
+                 <label class="form-check-label" for="question${questionNumber}${currentAnswers.key}">
+                   <input class="form-check-input" type="radio" name="question${questionNumber}" id="question${questionNumber}${currentAnswers.key}" value="${currentAnswers.key}" >
+                   <span class="wrappable"> ${text} </span>
+                 </label>
+               </div>
+              `
+            }
           );        
       
         questionNumber++;  

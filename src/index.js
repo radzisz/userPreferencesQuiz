@@ -3,7 +3,7 @@ const superagent = require('superagent');
 const htmlTemplate = require('./htmlTemplate');
 const { QuizBackend } = require('./quizBuilder');
 
-import 'bootstrap';
+//import 'bootstrap';
 import './scss/app.scss';
 
 class QuizWidget extends HTMLElement {

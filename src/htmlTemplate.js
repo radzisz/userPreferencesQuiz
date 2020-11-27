@@ -1,7 +1,7 @@
    
 const getTemplate = (title="", subtitle="", resultsHeader="") => {
     return `
-      <div class="container">
+     <div style="all: unset;">
       <div class="row text-center">
         <div class="col-sm">
           <h2>${title}</h2>
@@ -34,7 +34,7 @@ const getTemplate = (title="", subtitle="", resultsHeader="") => {
                 <button type="button" id="submit" class=" btn btn-success">Oblicz wynik</button>
             </div>
          </div>
-      </div>
+     </div>
     `}
 
 const htmlElements = () => {

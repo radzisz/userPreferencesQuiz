@@ -1,4 +1,6 @@
-@import "~bootstrap/scss/bootstrap";
+/**
+  @import "~bootstrap/scss/bootstrap";
+**/
 
 .slide{
   display: none
@@ -7,4 +9,11 @@
   display: inline-block;
 }
 
+.form-check-label {
+    white-space:nowrap;
+    font-weight: unset;
+}
 
+.wrappable {
+    white-space:normal;
+}
